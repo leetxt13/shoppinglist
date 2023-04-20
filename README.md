@@ -1,2 +1,0 @@
-# shoppinglist
- shoppinglist add/remove
