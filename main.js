@@ -21,7 +21,7 @@ function createItemList(itemName) {
   divIcon.innerHTML = "<i class='fa-solid fa-trash-can'></i>";
   div.appendChild(divIcon);
 }
-
+//ㅇㅈ
 function makeLastIconEvent() {
   const lastIcon = document.querySelector(".shopping_list:last-child i");
   lastIcon.addEventListener("click", (e) => {
